@@ -1,1 +1,1 @@
-# Simple implementation of a JavaFX application with navigation
+# Simple implementation of a MVC JavaFX application with navigation
